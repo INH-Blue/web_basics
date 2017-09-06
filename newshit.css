@@ -1,0 +1,10 @@
+body {
+    background: cyan;
+    color: red;
+    font-family: cursive;
+}
+
+p {
+    height: 30px;
+    background: black;
+}
