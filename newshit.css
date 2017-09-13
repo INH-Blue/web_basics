@@ -1,10 +1,10 @@
 body {
-    background: cyan;
-    color: red;
-    font-family: cursive;
+    text-align: center;
+    background: tan;
+    color: white;
+    font-family: sans-serif;
 }
 
-p {
-    height: 30px;
-    background: black;
+h1 {
+    color: yellow;
 }
